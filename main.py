@@ -19,8 +19,8 @@ print(word_pakdjjk)
 
 school = {
     "class_1A": 45,
-"class_1B": 15,
-"class_1C": 65.
+    "class_1B": 15,
+    "class_1C": 65.
 }
 
 spisok_list = ["cat","dog","rabbit","fox"]
